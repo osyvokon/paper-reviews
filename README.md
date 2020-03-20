@@ -10,3 +10,4 @@
 ## 2019
 
 * [Leveraging Pre-trained Checkpoints for Sequence Generation Tasks](./papers/pretrained-checkpoints-for-sequence-generation.md)
+* [Tagged Back-Translation](./papers/tagged-back-translation.md)
